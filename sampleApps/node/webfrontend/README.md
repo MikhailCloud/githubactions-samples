@@ -2,7 +2,7 @@
 
 A barebones Node.js app using Express 4
 
-## Running Locally
+## Running Locally 
 
 ```sh
 cd \Oryx\tests\SampleApps\nodejs\webfrontend
